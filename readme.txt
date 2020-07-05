@@ -1,0 +1,1 @@
+The FB15k and WN18 can be found in Bordes, et al,  Translat-ing embeddings for modeling multi-relational data, In the Proceedings of NeurIPS, 2013, pp. 2787¨C2795.
